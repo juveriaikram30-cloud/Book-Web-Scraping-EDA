@@ -1,5 +1,3 @@
-# Book-Web-Scraping-EDA
-Web Scraping, EDA and Data Visualization using Python
 # Book Data Analysis Using Web Scraping
 
 ## Tools Used
